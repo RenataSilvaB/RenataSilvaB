@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻Estudante de Sistemas de informação<br>❤Apaixonada por tecnologia<br>
+👩‍💻Sistemas de informação<br>❤Apaixonada por tecnologia<br>
 
 
 ## 🌐 Socials:
