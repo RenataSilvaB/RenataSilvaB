@@ -52,6 +52,6 @@ Formada em Sistemas de Informação pelo Grupo Projeção (2022–2025), focada 
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatasilva-9b1517265/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-silva-9b1517265/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsilvaren@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://renatasilvab.github.io)
